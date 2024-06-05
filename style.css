@@ -1,0 +1,25 @@
+.avatar{
+    width:180px;
+  
+}
+.card{
+    margin-left:400px;
+    margin-right: 400px;
+    margin-top: 100px;
+   
+    padding: 20px;
+background-color: #ddebf8;
+display: flex;
+justify-content: space-around;
+text-align: center;
+border-bottom : 15px solid #d8cefe;
+}
+
+.mubi{
+    margin: 40px;
+}
+
+.italic{
+    font-style: italic;
+}
+
